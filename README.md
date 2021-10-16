@@ -1,4 +1,5 @@
 # Bikesharing
+## Check out this link to the Tableau dashboard associated with this report:
 
 ## Background
 Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets look into bringing a bikesharing business to Des Moines ("DM BiikeShare"). 
@@ -19,7 +20,6 @@ Number of trips total collected in this dataset: 2 344 244
 ![Screen Shot 2021-10-16 at 7 28 00 PM](https://user-images.githubusercontent.com/82982952/137604487-50771398-5482-408c-bff8-921be941f2d0.png)
 ![Screen Shot 2021-10-16 at 7 28 08 PM](https://user-images.githubusercontent.com/82982952/137604488-3dc41b79-17c6-414c-a5a0-16bd15d02460.png)
 
-## Check out this link to the Tableau dashboard associated with this report:
 
 August Peak Hours:
 ![Screen Shot 2021-10-16 at 6 48 05 PM](https://user-images.githubusercontent.com/82982952/137603897-a21eda31-c078-4f38-acf5-bde5e07ed7a3.png)
