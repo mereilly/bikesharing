@@ -16,6 +16,9 @@ Number of trips total collected in this dataset: 2 344 244
 "Subscribers"(orange) refers to annual subscribers of the bike-sharing service, while "customers" (blue) are the short-term riders:
 ![Screen Shot 2021-10-16 at 6 40 08 PM](https://user-images.githubusercontent.com/82982952/137603788-f9c12e27-9d31-46cf-8040-494d68c8c1ee.png)
 
+![Screen Shot 2021-10-16 at 7 28 00 PM](https://user-images.githubusercontent.com/82982952/137604487-50771398-5482-408c-bff8-921be941f2d0.png)
+![Screen Shot 2021-10-16 at 7 28 08 PM](https://user-images.githubusercontent.com/82982952/137604488-3dc41b79-17c6-414c-a5a0-16bd15d02460.png)
+
 ## Check out this link to the Tableau dashboard associated with this report:
 
 August Peak Hours:
