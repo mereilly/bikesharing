@@ -11,7 +11,7 @@ The key takeaways from this analysis are that males make up far more of Citibike
 
 Two additional analyses that could be helpful are average distance of rides and usage heatmaps for a subregion of New York that is more similar to Des Moines than the city as a whole.
 
-
+Number of trips total collected in this dataset: 2 344 244 
  
 "Subscribers"(orange) refers to annual subscribers of the bike-sharing service, while "customers" (blue) are the short-term riders:
 ![Screen Shot 2021-10-16 at 6 40 08 PM](https://user-images.githubusercontent.com/82982952/137603788-f9c12e27-9d31-46cf-8040-494d68c8c1ee.png)
