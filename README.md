@@ -11,7 +11,7 @@ Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets l
 
 
 
-## Check out this link to the Tableau dashboard associated with this report: https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
+## Check out this link to the Tableau dashboard associated with this report: https://public.tableau.com/app/profile/4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
 
 ## Other Visuals left out of the dashboard
 
