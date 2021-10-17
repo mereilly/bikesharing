@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#Blinding from CSVs
+*.csv
+
 # Log file
 *.log
 
