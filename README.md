@@ -4,8 +4,10 @@
 ## Background
 Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets look into bringing a bikesharing business to Des Moines ("DM BiikeShare"). 
 
-You know that you want to use Tableau to create effective visualizations from the Citi Bike data, which Kate can then use to impress potential investors. You also know that the key to getting a good visualization—and, really, any good data analysis—is to start with a question. But what is the right question to ask and how do you portray the answer accurately?
+<!-- You know that you want to use Tableau to create effective visualizations from the Citi Bike data, which Kate can then use to impress potential investors. You also know that the key to getting a good visualization—and, really, any good data analysis—is to start with a question. But what is the right question to ask and how do you portray the answer accurately?
  bike maintenance will likely be one of the biggest expenses. So, what can the data tell us about the upkeep bikes might need?
+ 
+ Kate calls you with exciting news: the potential investors have agreed to an in-person pitch!! You quickly review your findings and decide they aren't quite polished enough for a full-fledged, real-time, big-deal pitch. You want to put something together that both eloquently answers investors' questions and that really pops. So it's on to the next Tableau tool: dashboards. -->
 
 
 
