@@ -10,6 +10,11 @@ Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets l
  Kate calls you with exciting news: the potential investors have agreed to an in-person pitch!! You quickly review your findings and decide they aren't quite polished enough for a full-fledged, real-time, big-deal pitch. You want to put something together that both eloquently answers investors' questions and that really pops. So it's on to the next Tableau tool: dashboards. -->
 
 
+<!-- Using Tableau, create visualizations that show:
+
+How long bikes are checked out for all riders and genders.
+How many trips are taken by the hour for each day of the week, for all riders and genders.
+A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. -->
 
 ## Check out this link to the Tableau dashboard associated with this report: https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
 
