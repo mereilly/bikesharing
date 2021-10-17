@@ -1,20 +1,23 @@
 # Bikesharing
 
+## Background and Purpose
+Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets look into bringing a bikesharing business to Des Moines ("DM BiikeShare"). Kate and I made this project for a presentation for an in-person pitch with potential investors. Here I made visualizations to help make apparent our plan based on observations from NYC that we think we could translate to Des Moines.
 
-## Background
-Inspired by a the citibike program in NYC, my friend, Kate, and I decided lets look into bringing a bikesharing business to Des Moines ("DM BiikeShare"). 
+## Results:
+Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image
 
-<!-- You know that you want to use Tableau to create effective visualizations from the Citi Bike data, which Kate can then use to impress potential investors. You also know that the key to getting a good visualization—and, really, any good data analysis—is to start with a question. But what is the right question to ask and how do you portray the answer accurately?
- bike maintenance will likely be one of the biggest expenses. So, what can the data tell us about the upkeep bikes might need?
- 
- Kate calls you with exciting news: the potential investors have agreed to an in-person pitch!! You quickly review your findings and decide they aren't quite polished enough for a full-fledged, real-time, big-deal pitch. You want to put something together that both eloquently answers investors' questions and that really pops. So it's on to the next Tableau tool: dashboards. -->
+## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Two more visualizations I would preform would be focused around the idea of maintainence.
+
+## Check out this link to the Tableau dashboard associated with this report: 
+https://public.tableau.com/app/profile/michelle.reilly4578/viz/VisualizationsfortheTripAnalysis_16344376822380/Dashboard1?publish=yes
+## Check out this link to another Tableau dashboard associated with this report:
+https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
 
 
-<!-- Using Tableau, create visualizations that show:
 
-How long bikes are checked out for all riders and genders.
-How many trips are taken by the hour for each day of the week, for all riders and genders.
-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. -->
+
+
 ## Check out this link to the Tableau dashboard associated with this report: 
 https://public.tableau.com/app/profile/michelle.reilly4578/viz/VisualizationsfortheTripAnalysis_16344376822380/Dashboard1?publish=yes
 ## Check out this link to another Tableau dashboard associated with this report:
