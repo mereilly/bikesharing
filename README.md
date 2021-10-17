@@ -18,11 +18,6 @@ https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16
 
 
 
-## Check out this link to the Tableau dashboard associated with this report: 
-https://public.tableau.com/app/profile/michelle.reilly4578/viz/VisualizationsfortheTripAnalysis_16344376822380/Dashboard1?publish=yes
-## Check out this link to another Tableau dashboard associated with this report:
-https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
-
 
 
 
