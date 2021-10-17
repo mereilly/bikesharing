@@ -39,7 +39,7 @@ Number of trips total collected in this dataset: 2 344 244
 
 ![Screen Shot 2021-10-16 at![Screen Shot 2021-10-16 at 11 38 09 PM](https://user-images.githubusercontent.com/82982952/137610121-0279fea4-0599-4a00-b7cd-ba6a6a0b6688.png)
  11 37 44 PM](https://user-images.githubusercontent.com/82982952/137610113-7f477ee2-6d54-467c-81d4-d1ac1e912f65.png)
- ![Uploading Screen Shot 2021-10-16 at 11.38.09 PM.png…]()
+ !
 ![Screen Shot 2021-10-16 at 11 37 53 PM](https://user-images.githubusercontent.com/82982952/137610125-6e1f94ab-fd45-4c7e-bdcb-159ce34586a1.png)
 
 
