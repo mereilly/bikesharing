@@ -39,20 +39,26 @@ Number of trips total collected in this dataset: 2 344 244
 
 ![Screen Shot 2021-10-16 at![Screen Shot 2021-10-16 at 11 38 09 PM](https://user-images.githubusercontent.com/82982952/137610121-0279fea4-0599-4a00-b7cd-ba6a6a0b6688.png)
  11 37 44 PM](https://user-images.githubusercontent.com/82982952/137610113-7f477ee2-6d54-467c-81d4-d1ac1e912f65.png)
- !
+
 ![Screen Shot 2021-10-16 at 11 37 53 PM](https://user-images.githubusercontent.com/82982952/137610125-6e1f94ab-fd45-4c7e-bdcb-159ce34586a1.png)
 
+![Screen Shot 2021-10-16 at 11 38 09 PM](https://user-images.githubusercontent.com/82982952/137610231-57bd6cf6-23f7-4a89-8ca2-0ae372606f21.png)
 
 
-August Peak Hours: 
+
+August Peak Hours:
+
 ![Screen Shot 2021-10-16 at 11 38 19 PM](https://user-images.githubusercontent.com/82982952/137610145-23242dad-7372-4cd1-bdad-aa54b5b14574.png)
 
 
 Top Starting and Top Ending Locations (darker more red bigger circles reflect greater popularity of the location pinpointed): 
+
 ![Screen Shot 2021-10-16 at 11 38 30 PM](https://user-images.githubusercontent.com/82982952/137610159-c01ae9ea-6ba0-48b6-9433-9995b3f200c5.png)
+
 ![Screen Shot 2021-10-16 at 11 38 40 PM](https://user-images.githubusercontent.com/82982952/137610160-85672384-fa73-430a-ac36-cd9807f67194.png)
 
 
 Trip duration by Birth Year (indicating Age): 
+
 ![Screen Shot 2021-10-16 at 11 38 48 PM](https://user-images.githubusercontent.com/82982952/137610184-04053aa9-dc44-4f6b-96c6-36d06fa31b70.png)
 
