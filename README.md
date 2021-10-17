@@ -16,7 +16,12 @@ How long bikes are checked out for all riders and genders.
 How many trips are taken by the hour for each day of the week, for all riders and genders.
 A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. -->
 
-## Check out this link to the Tableau dashboard associated with this report: https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
+## Check out this link to the Tableau dashboard associated with this report: 
+https://public.tableau.com/app/profile/michelle.reilly4578/viz/VisualizationsfortheTripAnalysis_16344376822380/Dashboard1?publish=yes
+## Check out this link to another Tableau dashboard associated with this report: https://public.tableau.com/app/profile/michelle.reilly4578/viz/NYCitiBikeData_16344273233450/NYCCitiBike?publish=yes
+
+
+
 
 ## Comments on Visualizations and added Other Visuals left out of the dashboard
 
