@@ -32,6 +32,10 @@ Top Starting and Top Ending Locations (darker more red bigger circles reflect gr
 ![Screen Shot 2021-10-16 at 7 03 06 PM](https://user-images.githubusercontent.com/82982952/137604111-4b456fc0-882a-4ddf-b3b2-1586bd2591e1.png)
 ![Screen Shot 2021-10-16 at 7 02 28 PM](https://user-images.githubusercontent.com/82982952/137604099-04f30f93-12f8-4318-b4ef-c0b8992a4902.png)
 
+Trip duration by Birth Year (indicating Age):
+![Screen Shot 2021-10-16 at 8 06 26 PM](https://user-images.githubusercontent.com/82982952/137605127-a48b1695-e0c0-48e6-90cf-4f1d81361a87.png)
+
+
 
 
 
